@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">OnCall</string>
+    <string name="service_title">Your OnCall is ACTIVE</string>
+    <string name="service_message">Set your phone to audible mode and bring it everywhere</string>
+
+    <string name="button_activate">Activate</string>
+    <string name="button_deactivate">Deactivate</string>
+    <string name="button_close">Close</string>
+    <string name="main_title">Your OnCall is:</string>
+    <string name="active">Active</string>
+    <string name="inactive">Inactive</string>
+    <string name="active_additional_1">Remember to have these items nearby in case you are called:</string>
+    <string name="active_additional_2">\u2022 Cellphone\n\u2022 Notebook\n\u2022 Internet</string>
+    <string name="active_ending_1">Good Luck!</string>
+    <string name="active_ending_2">In case of an emergency, call\nYourManager (16) 99999–9999</string>
+    <string name="inactive_additional_1">You are not scheduled to be called in case of an emergency.</string>
+    <string name="inactive_ending_1">Enjoy your rest!</string>
+</resources>

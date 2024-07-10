@@ -1,0 +1,20 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.OnCall" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="fontFamily">@font/adamina</item>
+    </style>
+
+    <style name="Theme.OnCall" parent="Base.Theme.OnCall" />
+
+    <style name="ButtonStatus">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="backgroundTint">@color/green_activated</item>
+        <item name="layout_constraintVertical_bias">0.85</item>
+        <item name="layout_constraintHeight_percent">0.35</item>
+        <item name="cornerRadius">10dp</item>
+        <item name="iconGravity">textTop</item>
+        <item name="iconSize">28dp</item>
+        <item name="iconPadding">12dp</item>
+        <item name="iconTint">@color/white</item>
+    </style>
+</resources>
